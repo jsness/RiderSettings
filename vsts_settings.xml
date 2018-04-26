@@ -1,26 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="2e096396-7858-43c4-9717-992f3912c37c" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;94aebe03-3b41-4df7-a4c2-9c2cb6f6f971&quot;,&quot;name&quot;:&quot;AtlasTechnology&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/_apis/projectCollections/94aebe03-3b41-4df7-a4c2-9c2cb6f6f971&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;01fdcd35-80fa-4361-8cac-5659276507e4&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;revision&quot;:17,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/projects/01fdcd35-80fa-4361-8cac-5659276507e4&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;82e04780-7e38-474a-9c00-2bbe22f5f81b&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;remoteUrl&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_git/Atlas&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/git/repositories/82e04780-7e38-474a-9c00-2bbe22f5f81b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;01fdcd35-80fa-4361-8cac-5659276507e4&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;revision&quot;:17,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/projects/01fdcd35-80fa-4361-8cac-5659276507e4&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="https://tfs02.atlas.local/atlastechnology/_git/Atlas" />
-          <option name="serverUri" value="https://tfs02.atlas.local" />
-          <option name="userId" value="2e096396-7858-43c4-9717-992f3912c37c" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;94aebe03-3b41-4df7-a4c2-9c2cb6f6f971&quot;,&quot;name&quot;:&quot;AtlasTechnology&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/_apis/projectCollections/94aebe03-3b41-4df7-a4c2-9c2cb6f6f971&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;01fdcd35-80fa-4361-8cac-5659276507e4&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;revision&quot;:17,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/projects/01fdcd35-80fa-4361-8cac-5659276507e4&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;82e04780-7e38-474a-9c00-2bbe22f5f81b&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;remoteUrl&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_git/Atlas&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/git/repositories/82e04780-7e38-474a-9c00-2bbe22f5f81b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;01fdcd35-80fa-4361-8cac-5659276507e4&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;revision&quot;:17,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs02.atlas.local/AtlasTechnology/_apis/projects/01fdcd35-80fa-4361-8cac-5659276507e4&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
